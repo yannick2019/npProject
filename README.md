@@ -21,4 +21,7 @@ Koniya Event is an innovative and user-friendly events app designed to provide a
 - TailwindCSS
 - Chadcn/ui
 - Node
-- MongoDB
+- Uploadthing
+- Stripe
+- Zod
+- Clerk (authentication & user management)
